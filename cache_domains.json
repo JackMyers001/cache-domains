@@ -103,6 +103,11 @@
 			"domain_files": ["teso.txt"]
 		},
 		{
+			"name": "unity",
+			"description": "CDN for Unity 3D game engine",
+			"domain_files": ["unity.txt"]
+		},
+		{
 			"name": "warframe",
 			"description": "CDN for Warframe",
 			"domain_files": ["warframe.txt"]
